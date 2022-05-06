@@ -1,0 +1,17 @@
+.signup {
+    margin-bottom: 100px;
+    border: 2px solid black;
+    width: 400px;
+    margin: 20px auto;
+    background-color: rgb(133, 90, 173);
+}
+h1{
+    padding-left:50px ;
+}
+.inputs{
+    border: 1px solid black;
+    border-radius: 2px;
+}
+.buttons{
+    border-radius: 2px;
+}
